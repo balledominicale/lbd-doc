@@ -3,8 +3,8 @@ site_url: https://doc.balledominicale.ca
 site_description: Documentation de la Ligue de balle dominicale
 site_author: David Valentine
 
-repo_url: https://github.com/lbd/lbd-doc/
-edit_uri: ./edit/main/doc/
+repo_url: https://github.com/balledominicale/lbd-doc/
+edit_uri: ./edit/main/docs/
 
 site_dir: ../lbd-doc
 
