@@ -1,0 +1,22 @@
+body {
+  counter-reset: section; /* On initialise le compteur à 0 */
+}
+.col-md-9.numbering h2 {
+  counter-reset: subsection; /* On initialise le compteur à 0 */
+}
+.col-md-9.numbering h2::before {
+  counter-increment: section; /* On incrémente le compteur section */
+  content: counter(section) ".   "; /* On affiche le compteur */
+}
+.col-md-9.numbering h3::before {
+  counter-increment: subsection; /* On incrémente le compteur "subsection" */
+  content: counter(section) "." counter(subsection) ".";
+}
+
+li[data-level="1"] {
+  counter-reset: toc;
+}
+ul li.nav-item.numbering[data-level="2"] a::before {
+  counter-increment: toc;
+  content: counter(toc) ". ";
+}

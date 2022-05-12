@@ -1,0 +1,146 @@
+/** Élimine l'arrière-plan quadrillé */
+body::before {
+  content: none;
+}
+
+.navbar {
+  padding: 0rem 1rem;
+}
+
+
+/** Couleur de l'arrière plan du SNG */
+.bg-primary {
+  background-image: none;
+  background-repeat: no-repeat;
+  background-color: #252525 !important;
+}
+
+/** Couleur des items du système de navigation globale */
+.navbar-dark .navbar-brand,
+.navbar-dark .navbar-nav .nav-link {
+  color: rgba(255, 255, 255, 0.7);
+}
+.navbar-dark .navbar-nav .nav-link:hover,
+.navbar-dark .navbar-nav .nav-link:focus,
+.navbar-dark .navbar-brand:hover,
+.navbar-dark .navbar-brand:focus,
+a:hover {
+  color: #fff;
+}
+.navbar-dark .navbar-nav .nav-link:hover {
+  background: #c92a2e;
+}
+
+/** Boîte du SNG */
+@media (min-width: 992px) {
+
+  .navbar,
+  .navbar > .container .nav.navbar-nav .nav-link {
+    height: 44px;
+  }
+  .navbar > .container,
+  .navbar > .container .navbar-brand,
+  .navbar > .container .navbar-collapse,
+  .navbar > .container .nav.navbar-nav {
+    height: inherit;
+  }
+}
+
+/** hover du titre */
+a.navbar-brand:hover {
+  background: initial;
+}
+
+/** Distance entre les items du SNG */
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding-right: 0.75rem;
+  padding-left: 0.75rem;
+}
+
+/** Couleur arrière-plan  */
+body {
+  background-color: #f2ede3;
+  color: #222222;
+}
+.bg-secondary {
+  background-color: #f1ebd3  !important;
+}
+
+a {
+  color: #c92a2e;
+}
+a:hover {
+  background: #c92a2e;
+  text-decoration: none;
+}
+.bs-sidebar .nav > li > a:hover,
+.bs-sidebar .nav > li > a.active,
+.bs-sidebar .nav > li > a.active:hover,
+.bs-sidebar .nav > li > a.active:focus {
+  font-weight: bold;
+  border-right: 4px solid #c92a2e;
+}
+.bs-sidebar .nav > li > a.active:hover {
+  background-color: #c92a2e;
+}
+
+/** Contenu textuel */
+
+h2 {
+  font-weight: 400;
+  margin-bottom: 2.2rem;
+}
+h3 {
+  font-weight: 400;
+  font-size: 1.4rem;
+}
+
+div.col-md-9 h1:first-of-type {
+  text-align: center;
+  font-size: 46px;
+}
+div.col-md-9 h1:first-of-type .headerlink {
+  display: none;
+}
+div.col-md-9 > p:first-of-type {
+  text-align: center;
+}
+
+/** Full width button */
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:not(:disabled):not(.disabled):active,
+.btn-primary:not(:disabled):not(.disabled).active,
+.show > .btn-primary.dropdown-toggle {
+  background-image: none;
+  background-color: #c92a2e;
+  border-color: #f2ede3;
+  border-width: 2px;
+}
+
+/** Pas de précédent suivant */
+.nav.navbar-nav.ml-auto li:nth-child(2),
+.nav.navbar-nav.ml-auto li:nth-child(3) {
+  display: none;
+}
+
+/** Homepage */
+body.homepage > div.container > div.row > div.col-md-3 {
+  display: none;
+}
+body.homepage>div.container>div.row>div.col-md-9 {
+    margin-left: 0;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.jumbotron {
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  background-color: #f1ebd3;
+  border: solid 2px #ddd7bf;
+  border-radius: 0.3rem;
+}
+
+.card {
+  border: 2px solid #ddd7bf;
+}

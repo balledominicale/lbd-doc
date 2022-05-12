@@ -1,0 +1,40 @@
+site_name: LBDdoc
+site_url: https://doc.balledominicale.ca
+site_description: Documentation de la Ligue de balle dominicale
+site_author: David Valentine
+
+repo_url: https://github.com/lbd/lbd-doc/
+edit_uri: ./edit/main/doc/
+
+site_dir: ../lbd-doc
+
+nav:
+  - Accueil: index.md
+  - Règlementation:
+    - reglementation/informations.md
+    - reglementation/livre.md
+  - Pointage:
+    - Guide de pointage: pointage/guide.md
+    - Saisir: pointage/saisir.md
+#    - Importer: pointage/importer.md
+    - Feuille de pointage: pointage/LBD-feuille-de-pointage.pdf
+#  - Gestion: gestion/import.md
+#  - Contribuer: contribuer.md
+  - Site Web: "https://balledominicale.ca"
+
+theme:
+  name: mkdocs
+  locale: fr
+
+extra_css:
+  - css/mkdocs-lbd.css
+  - css/numbering.css
+
+plugins:
+  - search:
+      lang: fr
+
+markdown_extensions:
+    - toc:
+        permalink: ''
+    - admonition
