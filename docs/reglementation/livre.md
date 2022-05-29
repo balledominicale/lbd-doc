@@ -82,7 +82,7 @@ Pour être admissible aux séries, un homme doit obligatoirement avoir joué un 
 
 ###
 
-Une équipe peut faire appel aux joueuses et aux joueurs d’une autre équipe de la LBD selon les conditions suivantes :
+Une équipe peut faire appel aux joueuses et aux joueurs d’une autre équipe de la LBD selon les conditions suivantes&nbsp;:
 
 **(a) —** L’équipe dans le besoin doit avoir épuisé ses ressources internes (liste d’équipe).
 
@@ -256,8 +256,7 @@ En cas de suspension d’un match, pour quelque raison que ce soit, la rencontre
 
 ###
 
-Le match prend fin automatiquement s’il y a une différence de seize (16) points ou plus après la 4e manche ou après chaque manche subséquente complète. Le cas échéant, les deux équipes peuvent s’entendre pour terminer la partie de façon amicale si le temps le permet. Toutefois, les points et les statistiques ne seront pas comptabilisés au-delà de la dernière manche officielle du match. 
-
+Le match prend fin automatiquement s’il y a une différence de seize (16) points ou plus après la 4e manche ou après chaque manche subséquente complète. Le cas échéant, les deux équipes peuvent s’entendre pour terminer la partie de façon amicale si le temps le permet. Toutefois, les points et les statistiques ne seront pas comptabilisés au-delà de la dernière manche officielle du match.
 
 ---
 
@@ -279,9 +278,12 @@ Maximum de quatre (4) points par manche.
 
 ###
 
-Lorsqu’une équipe tire de l’arrière lors de son tour au bâton en septième manche, elle bénéficie d’une manche ouverte. L’un des trois scénarios suivants s’applique :
+Lorsqu’une équipe tire de l’arrière lors de son tour au bâton en septième manche, elle bénéficie d’une manche ouverte. L’un des trois scénarios suivants s’applique&nbsp;:
+
 **(a) —** Si l’équipe visiteuse tire de l’arrière après 6 manches complètes, elle bénéficie d’une manche ouverte en début de 7e manche. Si l’équipe visiteuse reprend les devants suite à son tour au bâton, la manche sera également ouverte pour l’équipe receveuse.
+
 **(b) —** Si l’équipe visiteuse mène après 6 manches complète, elle est limitée à 4 points et l’équipe receveuse bénéficie d’une manche ouverte à son tour au bâton.
+
 **(c) —** Si le pointage est égal après 6 manches complète, l’équipe visiteuse est limitée à 4 points. Si elle prend les devants lors de son tour au bâton, l’équipe receveuse bénéficiera alors d’une manche ouverte lors de son tour au bâton.
 
 
