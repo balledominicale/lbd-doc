@@ -164,3 +164,9 @@ body.homepage>div.container>div.row>div.col-md-9 {
 .card {
   border: 2px solid #ddd7bf;
 }
+
+/** Code */
+
+code {
+  border: none;
+}
