@@ -51,11 +51,11 @@ Les informations de la liste doivent être consignées et transmises par les éq
 
 ###
 
-Les équipes doivent soumettre à la ligue une liste d’au moins douze personnes, incluant un minimum de trois femmes, au plus tard le 17 juin 2021.
+Les équipes doivent soumettre à la ligue une liste d’au moins douze personnes, incluant un minimum de trois femmes, au plus tard le 29 mai 2022.
 
 ###
 
-Les équipes peuvent modifier leurs listes d’équipe autant de fois que nécessaire avant le 14 juillet 2021, si les conditions suivantes sont respectées :
+Les équipes peuvent modifier leurs listes d’équipe autant de fois que nécessaire avant le 1er juillet 2022, si les conditions suivantes sont respectées :
 
 
 **(a) —** La personne responsable fait parvenir à la ligue la liste d’équipe mise à jour avec les coordonnées complètes des nouveaux membres qui prendront part au match;
@@ -82,27 +82,23 @@ Pour être admissible aux séries, un homme doit obligatoirement avoir joué un 
 
 ###
 
-Une équipe peut faire appel aux joueuses et aux joueurs d’une autre équipe de la LBD ou de la Ligue du baloney bio selon les conditions suivantes :
+Une équipe peut faire appel aux joueuses et aux joueurs d’une autre équipe de la LBD selon les conditions suivantes :
 
 **(a) —** L’équipe dans le besoin doit avoir épuisé ses ressources internes (liste d’équipe).
 
-**(b) —** Une personne remplaçante provenant de la Ligue du baloney bio doit être dûment inscrite au sein de cette ligue.
-
-**(c) —** Les remplaçantes ou les remplaçants provenant des autres équipes de la LBD ou de la Ligue du baloney bio ne peuvent en aucun cas servir à combler les besoins au-delà de la 9e place dans l’alignement.
-
-Exception : une équipe de neuf personnes comprenant seulement deux femmes peut faire appel à une joueuse d’une autre équipe de la LBD ou de la Ligue du baloney bio afin d’éviter la pénalité pour manque de femmes.
+**(b) —** Les remplaçantes ou les remplaçants provenant des autres équipes de la LBD ne peuvent en aucun cas servir à combler les besoins au-delà de la 10e place dans l’alignement.
 
 ###
 
-En séries éliminatoires, les équipes peuvent emprunter un maximum d’une seule personne aux autres équipes ou à la Ligue du baloney bio au cours d’un même match.
+En séries éliminatoires, les équipes peuvent emprunter un maximum d’une seule personne aux autres équipes au cours d’un même match.
 
 ###
 
-Si une blessure survient en cours de match et que cette blessure n’entraîne pas de pénalité, la personne blessée ne peut pas être remplacée par une personne en provenance des autres équipes de la LBD ou de la Ligue du baloney bio.
+Si une blessure survient en cours de match et que cette blessure n’entraîne pas de pénalité, la personne blessée ne peut pas être remplacée par une personne en provenance des autres équipes de la LBD.
 
 ###
 
-Si une blessure survient en cours de match et que cette blessure entraîne des pénalités pour manque de joueuses ou de joueurs, une personne en provenance des autres équipes de la LBD ou de la Ligue du baloney bio peut remplacer en tout temps.
+Si une blessure survient en cours de match et que cette blessure entraîne des pénalités pour manque de joueuses ou de joueurs, une personne en provenance des autres équipes de la LBD peut remplacer en tout temps.
 
 ###
 
@@ -136,7 +132,7 @@ Au moins trois femmes doivent être inscrites sur l’alignement pour qu’une �
 
 **(a) —** Une équipe ne peut commencer un match avec une femme seulement. L’équipe fautive s’expose à une défaite par forfait.
 
-**(b) —** Avec seulement deux joueuses prêtes à prendre part au match, l’équipe en infraction se voit imposer un retrait automatique à la fin de l’alignement.
+**(b) —** Avec seulement deux joueuses prêtes à prendre part au match, l’équipe en infraction se voit imposer un retrait automatique à la fin de l’alignement ou à la 10e place de l’alignement si celui-ci compte plus de 10 joueurs.
 
 **(c) —** Si, en cours de match, le nombre de femmes passe de trois à deux, l’équipe peut remplacer la joueuse selon les modalités prévues.
 
@@ -260,7 +256,8 @@ En cas de suspension d’un match, pour quelque raison que ce soit, la rencontre
 
 ###
 
-Le match prend fin automatiquement s’il y a une différence de seize (16) points ou plus après la 4e manche ou après chaque manche subséquente complète.
+Le match prend fin automatiquement s’il y a une différence de seize (16) points ou plus après la 4e manche ou après chaque manche subséquente complète. Le cas échéant, les deux équipes peuvent s’entendre pour terminer la partie de façon amicale si le temps le permet. Toutefois, les points et les statistiques ne seront pas comptabilisés au-delà de la dernière manche officielle du match. 
+
 
 ---
 
@@ -282,7 +279,11 @@ Maximum de quatre (4) points par manche.
 
 ###
 
-La septième manche est ouverte.
+Lorsqu’une équipe tire de l’arrière lors de son tour au bâton en septième manche, elle bénéficie d’une manche ouverte. L’un des trois scénarios suivants s’applique :
+**(a) —** Si l’équipe visiteuse tire de l’arrière après 6 manches complètes, elle bénéficie d’une manche ouverte en début de 7e manche. Si l’équipe visiteuse reprend les devants suite à son tour au bâton, la manche sera également ouverte pour l’équipe receveuse.
+**(b) —** Si l’équipe visiteuse mène après 6 manches complète, elle est limitée à 4 points et l’équipe receveuse bénéficie d’une manche ouverte à son tour au bâton.
+**(c) —** Si le pointage est égal après 6 manches complète, l’équipe visiteuse est limitée à 4 points. Si elle prend les devants lors de son tour au bâton, l’équipe receveuse bénéficiera alors d’une manche ouverte lors de son tour au bâton.
+
 
 ###
 
