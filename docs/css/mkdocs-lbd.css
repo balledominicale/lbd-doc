@@ -46,6 +46,26 @@ a:hover {
   }
 }
 
+/** Drop down */
+.navbar-nav .dropdown-menu {
+  background: #f1ebd3;
+}
+.dropdown-item {
+  color: #c92a2e;
+}
+.dropdown-item:hover,
+.dropdown-item:focus {
+  color: #fff;
+  text-decoration: none;
+  background-color: #c92a2e;
+}
+.dropdown-item.active, .dropdown-item:active {
+  color: #fff;
+  text-decoration: none;
+  background-color: #c92a2e;
+  font-weight: bold;
+}
+
 /** hover du titre */
 a.navbar-brand:hover {
   background: initial;
