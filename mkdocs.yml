@@ -15,7 +15,8 @@ nav:
     - reglementation/livre.md
   - Pointage:
     - Guide de pointage: pointage/guide.md
-    - Saisir: pointage/saisir.md
+    - Modèle: pointage/modele.png
+#    - Saisir: pointage/saisir.md
 #    - Importer: pointage/importer.md
     - Feuille de pointage: pointage/LBD-feuille-de-pointage.pdf
 #  - Gestion: gestion/import.md

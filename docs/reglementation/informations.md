@@ -21,7 +21,7 @@ Informations générales sur la règlementation — Ligue de balle dominicale
 
 - [https://balledominicale.ca](https://balledominicale.ca)
 - [info@balledominicale.ca](mailto:info@balledominicale.ca)
-- [m.me/balledominicale.ca](m.me/balledominicale.ca)
+- [m.me/balledominicale.ca](https://m.me/balledominicale.ca)
 
 ---
 
