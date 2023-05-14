@@ -45,8 +45,9 @@ Les deux tâches de la personne responsable du pointage :
 | Action | Zone | Valeurs possibles | AB |
 |---|---|---|---|
 | Coup sûr | **`CID`** | **`1B`** **`2B`** **`3B`** **`CC`**| OUI |
-| Points produits | **`CSD`** | **`1`** **`2`** **`3`** **`4`**| s.o. |
+| Choix défensif | **`CID`** | **`FC`** ou **`OPT`**| OUI |
 | Erreur | **`CID`** | **`E`**| OUI |
+| Points produits | **`CSD`** | **`1`** **`2`** **`3`** **`4`**| s.o. |
 | Retrait | **`CTR`** | **&#9312;** **&#9313;** **&#9314;** **(encerclé)** | OUI |
 | Sacrifice | **`CIG`** | **`SAC`**| NON |
 
