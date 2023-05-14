@@ -3,7 +3,7 @@ title: Livre des règlements
 ...
 # Livre des règlements
 
-Saison 2022 — Ligue de balle dominicale
+Saison 2023 — Ligue de balle dominicale
 
 ---
 
