@@ -51,11 +51,11 @@ Les informations de la liste doivent être consignées et transmises par les éq
 
 ###
 
-Les équipes doivent soumettre à la ligue une liste d’au moins douze personnes, incluant un minimum de trois femmes, au plus tard le 29 mai 2022.
+Les équipes doivent soumettre à la ligue une liste d’au moins douze personnes, incluant un minimum de trois femmes, avant le 12 mai 2023.
 
 ###
 
-Les équipes peuvent modifier leurs listes d’équipe autant de fois que nécessaire avant le 1er juillet 2022, si les conditions suivantes sont respectées :
+Les équipes peuvent modifier leurs listes d’équipe autant de fois que nécessaire avant le 30 juin 2023, si les conditions suivantes sont respectées :
 
 
 **(a) —** La personne responsable fait parvenir à la ligue la liste d’équipe mise à jour avec les coordonnées complètes des nouveaux membres qui prendront part au match;
@@ -68,7 +68,7 @@ Les équipes peuvent modifier leurs listes d’équipe autant de fois que néces
 
 ###
 
-Aucune modification aux listes d’équipe ne pourra être apportée après le 14 juillet 2021.
+Aucune modification aux listes d’équipe ne pourra être apportée après le 29 juin 2023.
 
 ###
 
@@ -86,7 +86,7 @@ Une équipe peut faire appel aux joueuses et aux joueurs d’une autre équipe d
 
 **(a) —** L’équipe dans le besoin doit avoir épuisé ses ressources internes (liste d’équipe).
 
-**(b) —** Les remplaçantes ou les remplaçants provenant des autres équipes de la LBD ne peuvent en aucun cas servir à combler les besoins au-delà de la 10e place dans l’alignement.
+**(b) —** Les remplaçantes ou les remplaçants provenant des autres équipes de la LBD ne peuvent en aucun cas servir à combler les besoins au-delà de la 10<sup>e</sup> place dans l’alignement.  Les remplaçants ou les remplaçantes issus d’autres équipe de la LBD doivent obligatoirement être placés à la fin de l’alignement.
 
 ###
 
@@ -103,6 +103,10 @@ Si une blessure survient en cours de match et que cette blessure entraîne des p
 ###
 
 Qu’une blessure entraîne ou non des pénalités, la personne blessée peut en tout temps être remplacée par une personne dûment inscrite sur la liste d’équipe de la personne blessée.
+
+###
+
+Un joueur ou une joueuse peut agir comme lanceur pour son équipe sans pour autant figurer sur l’alignement officiel pour une partie. Le cas échéant, le joueur ou la joueuse ne peut pas  participer à l’offensive (aucun tour au bâton). Ce joueur ou cette joueuse doit obligatoirement être inscrit.e sur une liste d’équipe.
 
 ---
 
@@ -286,7 +290,6 @@ Lorsqu’une équipe tire de l’arrière lors de son tour au bâton en septièm
 
 **(c) —** Si le pointage est égal après 6 manches complète, l’équipe visiteuse est limitée à 4 points. Si elle prend les devants lors de son tour au bâton, l’équipe receveuse bénéficiera alors d’une manche ouverte lors de son tour au bâton.
 
-
 ###
 
 La règle de la chandelle intérieure (in-field fly) est en vigueur (SBC 1-52). L’arbitre applique la règle selon son jugement.
@@ -403,7 +406,7 @@ L’écran protecteur est positionné à 40 pieds du marbre (environ 5 à 6 pied
 
 Le lancer doit obligatoirement s’effectuer dans l’axe « plaque du lanceur-marbre », et ce, malgré la présence du filet.
 
-**(a) —** Le lanceur ou la lanceuse peut, à sa guise, déplacer latéralement le filet de manière à lui permettre de lancer dans l’axe indiqué ci-dessus.
+**(a) —** Le lanceur ou la lanceuse peut, à sa guise, déplacer latéralement le filet de manière à lui permettre de lancer dans l’axe indiqué ci-dessus. Toutefois, le filet doit en tout temps demeurer en contact avec cet axe, dont la largeur correspond à celle de de la plaque du lanceur.
 
 **(b) —** Immédiatement après son lancer, le lanceur doit effectuer un pas de côté pour sécuriser sa position derrière le filet.
 
